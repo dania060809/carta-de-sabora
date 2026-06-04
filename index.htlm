@@ -18,8 +18,8 @@
 </head>
 <body>
 
-    <img src="carta1.jpg.png" alt="carta1.jpg.png">
-    <img src="carta2.jpg.png" alt="carta2.jpg.png">
+    <img src="carta1.jpg" alt="carta1.jpg">
+    <img src="carta2.jpg" alt="carta2.jpg">
 
 </body>
 </html>
