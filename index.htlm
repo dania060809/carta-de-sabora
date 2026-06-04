@@ -1,27 +1,26 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Carta Sabora</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carta Sabora</title>
 
-<style>
-body{
-    margin:0;
-    background:white;
-}
+    <style>
+        body {
+            margin: 0;
+            background: white;
+        }
 
-img{
-    width:100%;
-    display:block;
-}
-</style>
-
+        img {
+            width: 100%;
+            display: block;
+        }
+    </style>
 </head>
 <body>
 
-<img src="carta1.jpg">
-<img src="carta2.jpg">
+    <img src="carta1.jpg.png" alt="Carta página 1">
+    <img src="carta2.jpg.png" alt="Carta página 2">
 
 </body>
 </html>
