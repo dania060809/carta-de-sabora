@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Carta de Sabora</title>
+    <title>carta de Sabora</title>
     <style>
         body {
             background: white;
@@ -18,8 +18,8 @@
 </head>
 <body>
 
-    <img src="carta1.jpg.png" alt="Carta1.jpg.png">
-    <img src="carta2.jpg.png" alt="Carta2.jpg.png">
+    <img src="carta1.jpg.png" alt="carta1.jpg.png">
+    <img src="carta2.jpg.png" alt="carta2.jpg.png">
 
 </body>
 </html>
