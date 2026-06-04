@@ -1,26 +1,25 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Carta Sabora</title>
-
+    <title>Carta de Sabora</title>
     <style>
         body {
-            margin: 0;
             background: white;
+            text-align: center;
+            margin: 0;
+            padding: 10px;
         }
-
         img {
-            width: 100%;
+            max-width: 100%;
+            margin: 10px auto;
             display: block;
         }
     </style>
 </head>
 <body>
 
-    <img src="carta1.jpg.png" alt="Carta página 1">
-    <img src="carta2.jpg.png" alt="Carta página 2">
+    <img src="carta1.jpg.png" alt="Carta1.jpg.png">
+    <img src="carta2.jpg.png" alt="Carta2.jpg.png">
 
 </body>
 </html>
